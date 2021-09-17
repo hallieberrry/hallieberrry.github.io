@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Hallie Zimmerman
+Portfolio
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
