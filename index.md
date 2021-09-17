@@ -1,4 +1,6 @@
 ---
+title: Hallie Ann Zimmerman
+description: Portfolio
 ---
 
 ![My Picture](/pics/HAZHeadshot.jfif/)
