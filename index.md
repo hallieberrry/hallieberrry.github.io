@@ -5,4 +5,4 @@ Portfolio
 
 The content I have developed for my courses:
 
--[Time Series Decompotition](/TimeSeries/index.md)
+- [Time Series Decompotition](/TimeSeries/index.md)
