@@ -1,5 +1,5 @@
 ---
-title: Hallie Zimmerman
+title: Hallie Ann Zimmerman
 Portfolio
 ---
 
