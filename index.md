@@ -3,7 +3,7 @@ title: Hallie Zimmerman
 Portfolio
 ---
 
-![My Picture](/pics/)
+![My Picture](/pics/HAZHeadshot.jfif/)
 
 The content I have developed for my courses:
 
