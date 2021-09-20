@@ -7,7 +7,7 @@ description: Portfolio
 
 The content I have developed for my courses:
 
-- [Time Series Decompotition](/TimeSeries/index.md)
+- [Time Series Plots](/TimeSeries/index.md)
 
 - [Sample Repository](https://github.com/hallieberrry/Reproducible-Research_Course-Project-1)
 
