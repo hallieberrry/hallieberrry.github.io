@@ -1,8 +1,8 @@
 ---
-title: Time Series Decomposition
+title: Time Series Plots
 description: Course Content
 ---
 
-Here is a Time Series Decomposition I use in my CTBA Course.
-- [Time Series Plot (html)](Sample Work.html)
-- [Time Series Plot (ipynb)](Sample Work.ipynb)
+Here is an example of Time Series Plots I created in my CTBA Course.
+- [Sample Work (html)](Sample Work.html)
+- [Sample Work (ipynb)](Sample Work.ipynb)
